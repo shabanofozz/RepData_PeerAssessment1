@@ -2,8 +2,14 @@
 title: "Activity Analysis"
 author: "Marko S"
 date: "April 25, 2018"
-output: html_document
+output: md_document
 ---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.path = "images/")
+```
+
 
 ## Reproducible Data Assignment
 

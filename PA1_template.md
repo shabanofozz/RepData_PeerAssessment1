@@ -34,7 +34,7 @@ of the total number of steps taken each day
             xlab("Dates Range for Steps Collection")+
             ylab("Total Steps per Day")  
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](images/unnamed-chunk-3-1.png)
 
 What is the mean total number of steps taken per day?
 
@@ -60,7 +60,7 @@ What is the average daily activity pattern?
             xlab("5 min interval")+
             ylab("Mean Steps")  
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](images/unnamed-chunk-6-1.png)
 
 Which 5-minute interval, on average across all the days in the dataset,
 contains the maximum number of steps?
@@ -111,7 +111,7 @@ estimates of the total daily number of steps?
             xlab("Dates Range for Steps Collection")+
             ylab("Total Steps per Day") 
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-10-1.png)
+![](images/unnamed-chunk-10-1.png)
 
 What is the mean total number of steps taken per day?
 
@@ -152,4 +152,4 @@ should look like using simulated data.
             xlab("5 min interval")+
             ylab("Mean Steps")  
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-14-1.png)
+![](images/unnamed-chunk-14-1.png)
